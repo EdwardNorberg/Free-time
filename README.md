@@ -1,2 +1,2 @@
 # Free-time
-A repository for all projcets I have created on my free time
+A repository for all projects I have created on my free time
